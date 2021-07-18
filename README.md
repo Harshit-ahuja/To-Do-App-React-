@@ -1,1 +1,1 @@
-# To-Do-App-React-
+This is a basic To-Do List App made using React.js
